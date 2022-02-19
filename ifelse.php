@@ -28,7 +28,7 @@ if($hari == "Senin"){
 echo "<hr>";
 
 $cuaca = "Hujan";
-$payung = "Ada1";
+$payung = "Ada";
 
 if($cuaca == "Hujan"){
     if($payung == "Ada"){
@@ -45,4 +45,5 @@ if($cuaca == "Hujan" or $payung == "Ada"){
 } else {
     echo "Panas";
 }
+
 ?>
