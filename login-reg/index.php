@@ -19,7 +19,7 @@
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
-                        <a href="daftar.php" class="btn btn-success">Daftar</a>
+                        <a href="register.php" class="btn btn-success">Daftar</a>
                     </div>
                 </div>
             </div>
